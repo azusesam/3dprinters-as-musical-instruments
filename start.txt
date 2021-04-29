@@ -1,0 +1,6 @@
+PWM制御でステッピングモーターを動かす。
+https://www.nicovideo.jp/watch/sm32329933
+https://tlo-olb.hatenablog.com/entry/2019/03/22/191524
+https://www.nicovideo.jp/watch/sm37577316
+https://blog.handen.net/archives/5664646.html
+http://katosunmemo.hatenablog.com/entry/2017/04/26/232346
